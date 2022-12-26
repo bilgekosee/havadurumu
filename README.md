@@ -1,6 +1,6 @@
 # HAVA DURUMU
 
-## hava durumunu gösteren uygulama
+## Hava durumunu gösteren uygulama
 
 *weather forecast app*
 
